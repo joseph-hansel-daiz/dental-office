@@ -1,0 +1,6 @@
+[submodule "apps/dental-office-backend"]
+	path = apps/dental-office-backend
+	url = git@github.com:joseph-hansel-daiz/dental-office-backend.git
+[submodule "apps/dental-office-frontend"]
+	path = apps/dental-office-frontend
+	url = git@github.com:joseph-hansel-daiz/dental-office-frontend.git
